@@ -1,3 +1,2 @@
 # EduPulse
-AI-powered academic risk and early warning system.
-EduPulse is a Python-based tool that predicts academic risk for students using machine learning and explainable AI. It generates a professional PDF report with actionable insights, early warnings, and personalized recommendations.
+EduPulse is an AI-driven academic risk prediction and early warning system that analyzes student performance data, explains risk factors, and generates actionable insights through automated professional reports.
